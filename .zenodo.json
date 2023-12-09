@@ -1,0 +1,25 @@
+{
+  "title": "IS477 Car Evaluation",
+  "description": "This dataset involves preparing, profiling, and analyzing the range of buying values for cars.",
+  "creators": [
+    {
+      "name": "Mahir Thakkar",
+      "orcid": "0009-0002-6396-6948"
+    },
+    {
+      "name": "Aarthi Shivkumar",
+      "orcid": "0009-0001-2475-0311"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "DOI",
+      "identifier": "https://doi.org/10.24432/C5JP48",
+      "relation": "Cites"
+    }
+  ],
+  "access_right": "Open",
+  "upload_type": "Software",
+  "license": "MIT License"
+}
+
