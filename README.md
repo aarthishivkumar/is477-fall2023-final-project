@@ -1,4 +1,5 @@
 ## IS477: Car Evaluation Analysis
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10068103.svg)](https://doi.org/10.5281/zenodo.10068103)
 
 ## Overview
 The Car Evaluation dataset is obtained from UC Irvine Machine Learning Repository. The Car Evaluation Database provides a set of instances evaluating cars based on attributes such as buying price, maintenance cost, number of doors, passenger capacity, luggage space, and safety, aimed at determining car acceptability. The dataset contains categorical features including buying price, maintenance cost, number of doors, passenger capacity, luggage boot size, and estimated car safety, each without missing values. The target variable 'class' categorizes the car's evaluation level, ranging from unacceptable to very good.
