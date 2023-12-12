@@ -18,8 +18,7 @@
       "relation": "Cites"
     }
   ],
-  "access_right": "Open",
+  "access_right": "open",
   "upload_type": "Software",
   "license": "MIT License"
 }
-
