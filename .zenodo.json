@@ -20,6 +20,8 @@
   ],
   "access_right": "open",
   "upload_type": "software",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["prepare", "profile", "analyze"]
+  
 }
 
